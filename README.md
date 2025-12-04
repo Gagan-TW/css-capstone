@@ -84,7 +84,6 @@ css-capstone/
 
 ## Future Enhancements
 
-- 
 - Implement modal/video player functionality
 - Add search functionality
 - Dark/light theme toggle
